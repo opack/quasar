@@ -10,7 +10,7 @@ While you are developing a Mobile App with Capacitor Mode, you can access `$q.ca
 
 ### Android remote debugging
 
-If you are debugging Android Apps, you can use Google Chrome [Remote Debugging](https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging?hl=en) through a USB cable attached to your Android phone/tablet. It can be used for emulator too.
+If you are debugging Android Apps, you can use Google Chrome [Remote Debugging](https://developer.chrome.com/docs/devtools/remote-debugging/webviews?hl=en) through a USB cable attached to your Android phone/tablet. It can be used for emulator too.
 
 This way you have Chrome Dev Tools directly for your App running on the emulator/phone/table. Inspect elements, check console output, and so on and so forth.
 
